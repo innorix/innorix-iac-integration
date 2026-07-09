@@ -1,5 +1,12 @@
 # INNORIX IaC Integration
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Infrastructure as Code](https://img.shields.io/badge/Infrastructure-IaC-6C63FF)
+![Terraform](https://img.shields.io/badge/Terraform-Supported-844FBA)
+![Pulumi](https://img.shields.io/badge/Pulumi-Supported-8A3391)
+![License](https://img.shields.io/badge/License-Commercial-red)
+![Status](https://img.shields.io/badge/Status-Official-success)
+
 Official integration examples for bootstrapping infrastructure with INNORIX after Infrastructure as Code provisioning.
 
 ## Supported Platforms
